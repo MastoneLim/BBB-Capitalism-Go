@@ -14,8 +14,8 @@ Welcome to a small world with **big economics**. This server experiments with re
 
 ---
 
-## What is this server?
-## 이 서버 뭐에요?
+## What is this server?  
+## 이 서버 뭐에요?  
   
 **Goal:** simulate and remix economics inside Minecraft using adjustable rules.  
 **How:** we use currency, banks, taxes, shops, and policy switches—then change them season-to-season to see how players adapt.  
@@ -23,17 +23,17 @@ Welcome to a small world with **big economics**. This server experiments with re
 **목표:** 마인크래프트 내부에서 조정 가능한 규칙을 사용하여 경제학을 시뮬레이션하고 리믹스합니다.  
 **방법:** 우리는 통화, 은행, 세금, 상점, 정책 전환을 사용한 다음 시즌마다 변경하여 플레이어들이 어떻게 적응하는지 확인합니다.
   
-**Core pillars**
-- **Currency & Banking:** Wallets, accounts, transfers, shops, fees — via [Lightman’s Currency](mods/lightman-s-currency.md).
-- **Travel & Exploration:** A lots of special structures are added, and they have special, and strong treasures inside! So, go treasure hunt, and make profit!
-- **Production & Supply:** Farming, cooking, machinery/automation, and loot drive supply.
-- **Player-run Markets:** Buy/sell, arbitrage, contracts, and services (delivery, building, protection, logistics).
+**Core pillars**  
+- **Currency & Banking:** Wallets, accounts, transfers, shops, fees — via [Lightman’s Currency](mods/lightman-s-currency.md).  
+- **Travel & Exploration:** A lots of special structures are added, and they have special, and strong treasures inside! So, go treasure hunt, and make profit!  
+- **Production & Supply:** Farming, cooking, machinery/automation, and loot drive supply.  
+- **Player-run Markets:** Buy/sell, arbitrage, contracts, and services (delivery, building, protection, logistics).  
 
-**핵심**
-- **통화 및 뱅킹:** 지갑, 계좌, 이체, 상점, 수수료 - [Lightman’s Currency](mods/lightman-s-currency.md) 를 통해 확인할 수 있습니다.
-- **여행 및 탐험:** 수 많은 특별한 구조물이 월드에 생성되며, 내부에 특별하고 강력한 보물이 있습니다! 그러니 보물찾기에 나서 수익을 창출하세요!
-- **생산 및 공급:** 농업, 요리, 기계/자동화, 전리품 구동 공급.
-- **플레이어 운영 시장:** 매매, 차익 거래, 계약 및 서비스(배송, 건축, 보호, 물류).
+**핵심**  
+- **통화 및 뱅킹:** 지갑, 계좌, 이체, 상점, 수수료 - [Lightman’s Currency](mods/lightman-s-currency.md) 를 통해 확인할 수 있습니다.  
+- **여행 및 탐험:** 수 많은 특별한 구조물이 월드에 생성되며, 내부에 특별하고 강력한 보물이 있습니다! 그러니 보물찾기에 나서 수익을 창출하세요!  
+- **생산 및 공급:** 농업, 요리, 기계/자동화, 전리품 구동 공급.  
+- **플레이어 운영 시장:** 매매, 차익 거래, 계약 및 서비스(배송, 건축, 보호, 물류).  
 
 ---
 
@@ -42,7 +42,7 @@ Welcome to a small world with **big economics**. This server experiments with re
 - **Season format:** Each season runs for a fixed period (e.g., _2–6 weeks_; set by admin), with a distinct **policy preset**.  
 - **Policy knobs:** taxes, minting, interest rate, shop fees, wages, death penalties, drop rules, travel costs, etc.  
 - **Winner:** the player with the **highest final balance** in Lightman’s Currency at the snapshot time wins the **hamburger gift card**.  
-- **Resets:** world/economy may reset between seasons; policy notes and results are archived.
+- **Resets:** world/economy may reset between seasons; policy notes and results are archived.  
   
 - **시즌 형식:** 각 시즌은 정해진 기간(예: _2–6주_; 관리자에 의해 설정됨) 동안 진행되며, 별도의 **정책 사전 설정**이 있습니다.
 - **정책 예시:** 세금, 조폐, 이자율, 상점 수수료, 임금, 사형, 드롭 규칙, 여행 비용 등.
