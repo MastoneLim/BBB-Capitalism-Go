@@ -1,6 +1,9 @@
-# Modpack Wiki
+# BBB Capitalism Go 위키
+
+BBB Capitalism Go 서버의 모드와 주요 컨텐츠를 소개하는 위키입니다.
 
 Welcome! This site lists every mod in the pack with one‑line summaries and room for notes.  
+
 **Game:** Minecraft 1.20.1 (Forge)
 
 ## Browse Mods
