@@ -14,6 +14,8 @@ plugins:
   - search
 nav:
   - Home: index.md
+  - Guides:
+      - 주요 모드 가이드: guides/featured-mods.md
   - Mods by Category:
       - Worldgen: categories/worldgen.md
       - Mobs: categories/mobs.md
