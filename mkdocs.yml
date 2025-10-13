@@ -1,5 +1,4 @@
 site_name: Modpack Wiki
-docs_dir: .
 site_description: Guides and one-line summaries for a 1.20.1 Forge modpack
 site_url: https://example.com
 use_directory_urls: true
