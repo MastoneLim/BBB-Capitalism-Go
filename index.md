@@ -16,13 +16,13 @@ Welcome to a small world with **big economics**. This server experiments with re
 
 ## What is this server?
 ## 이 서버 뭐에요?
-
+  
 **Goal:** simulate and remix economics inside Minecraft using adjustable rules.  
-**How:** we use currency, banks, taxes, shops, and policy switches—then change them season-to-season to see how players adapt.
-
-**목표:** 마인크래프트 내부에서 조정 가능한 규칙을 사용하여 경제학을 시뮬레이션하고 리믹스합니다.
+**How:** we use currency, banks, taxes, shops, and policy switches—then change them season-to-season to see how players adapt.  
+  
+**목표:** 마인크래프트 내부에서 조정 가능한 규칙을 사용하여 경제학을 시뮬레이션하고 리믹스합니다.  
 **방법:** 우리는 통화, 은행, 세금, 상점, 정책 전환을 사용한 다음 시즌마다 변경하여 플레이어들이 어떻게 적응하는지 확인합니다.
-
+  
 **Core pillars**
 - **Currency & Banking:** Wallets, accounts, transfers, shops, fees — via [Lightman’s Currency](mods/lightman-s-currency.md).
 - **Travel & Exploration:** A lots of special structures are added, and they have special, and strong treasures inside! So, go treasure hunt, and make profit!
@@ -43,7 +43,7 @@ Welcome to a small world with **big economics**. This server experiments with re
 - **Policy knobs:** taxes, minting, interest rate, shop fees, wages, death penalties, drop rules, travel costs, etc.  
 - **Winner:** the player with the **highest final balance** in Lightman’s Currency at the snapshot time wins the **hamburger gift card**.  
 - **Resets:** world/economy may reset between seasons; policy notes and results are archived.
-
+  
 - **시즌 형식:** 각 시즌은 정해진 기간(예: _2–6주_; 관리자에 의해 설정됨) 동안 진행되며, 별도의 **정책 사전 설정**이 있습니다.
 - **정책 예시:** 세금, 조폐, 이자율, 상점 수수료, 임금, 사형, 드롭 규칙, 여행 비용 등.
 - **승자:** 시즌 종료 시점에 모드 화폐 **최종 잔액**이 가장 높은 플레이어가 **햄부기 기프트 카드**를 획득합니다.
@@ -67,8 +67,8 @@ Welcome to a small world with **big economics**. This server experiments with re
 2. **Earn your first money:** hunt mobs, find treasure and sell to the players, ... or mint it yourself! ideas are endless!
 3. **Open a shop** (or join one): specialize, set prices, and restock. (Lightman's Currency mode has a lot of special blocks (item shelves, vending machines,even slot machines...) and you can use them to create a store that works like a real thing.)
 4. **Scale up:** invest in automation/farms/logistics 
-5. **Mind the policies:** taxes/fees change per season—pivot fast!
-
+5. **Mind the policies:** taxes/fees change per season—pivot fast!  
+---  
 1. 지갑을 잡고 은행 계좌를 개설하세요** (Lightman’s Currency UI).
 2. **첫 번째 돈을 버세요:** 몹을 사냥하고, 보물을 찾아 플레이어에게 판매하며, ...혹은 직접 돈을 찍어내세요! 아이디어는 무궁무진합니다!
 3. **매장 오픈** (또는 매장에 가입): 전문화, 가격 설정, 재입고. (Lightman’s Currency 모드에는 많은 특별한 블록이 있으며(아이템 진열대, 자동 판매기, 슬롯머신...) 이를 활용해 실제와 같이 작동하는 상점을 만들 수 있습니다.)
