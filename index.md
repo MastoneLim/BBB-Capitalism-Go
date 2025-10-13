@@ -10,9 +10,9 @@ BBB Capitalism Go 서버의 모드와 주요 컨텐츠를 소개하는 위키입
   
 **설치방법**  
   
-1. Minecraft 홈페이지에서 Minecraft Java Launcher 설치  
-2. OpenJDK17U-jdk_x64_windows_hotspot_17.0.16_8 설치  
-3. forge-1.20.1-47.4.0-installer 설치 (Install Client 옵션)  
+1. Minecraft 홈페이지에서 Minecraft Java Launcher [설치](https://www.minecraft.net/ko-kr/download)  
+2. [OpenJDK17U-jdk_x64_windows_hotspot_17.0.16_8](https://drive.google.com/file/d/1eyK5NHG3_S1SkIilqhFD13UjV5tYFzB4/view?usp=drive_link) 설치  
+3. [forge-1.20.1-47.4.0-installer](https://drive.google.com/file/d/1AqmOrUnuZzAegzQQG8BkIDvinl2Kbl_Q/view?usp=drive_link) 설치 (Install Client 옵션)  
 4. C:\Users\growl\AppData\Roaming\.minecraft (기본 경로)에 [minecraft.rar](https://naver.me/GFCVxow3) 내용물 압축 풀어서 복붙  
 5. Minecraft Launcher 실행  
 6. Minecraft: Java Edition 아래 설치 설정 탭으로 이동  
