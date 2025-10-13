@@ -2,7 +2,7 @@
 
 BBB Capitalism Go 서버의 모드와 주요 컨텐츠를 소개하는 위키입니다.
 
-[빠른 주요 모드 설명](guides/featured-mods.md)
+[빠르게 주요 모드 설명을 보려면 여길 클릭](guides/featured-mods.md)
 
 Welcome to a small world with **big economics**. This server experiments with real-world ideas—**taxes, minting, wages, markets, inflation/deflation knobs**—all powered by [Lightman’s Currency](mods/lightman-s-currency.md). Each **season** we tweak the economic rules, then watch emergent chaos and clever strategies unfold.
 
