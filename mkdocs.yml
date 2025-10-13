@@ -12,6 +12,18 @@ theme:
     - content.code.copy
 plugins:
   - search
+nav:
+  - Home: index.md
+  - Mods by Category:
+      - Worldgen: index.md#worldgen
+      - Mobs: index.md#mobs
+      - QoL / UI: index.md#qol-ui
+      - Performance: index.md#performance
+      - Libraries: index.md#libraries
+      - Create / Industry: index.md#create-industry
+      - Food / FD add-ons: index.md#food-fd-add-ons
+      - Villagers & Economy: index.md#villagers-economy
+  - All Mods (A–Z): index.md#mod-list--one-liners
 markdown_extensions:
   - admonition
   - tables
