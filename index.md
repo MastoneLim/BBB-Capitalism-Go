@@ -44,7 +44,7 @@ Welcome to a small world with **big economics**. This server experiments with re
 - **Winner:** the player with the **highest final balance** in Lightman’s Currency at the snapshot time wins the **hamburger gift card**.  
 - **Resets:** world/economy may reset between seasons; policy notes and results are archived.
 
-- - **시즌 형식:** 각 시즌은 정해진 기간(예: _2–6주_; 관리자에 의해 설정됨) 동안 진행되며, 별도의 **정책 사전 설정**이 있습니다.
+- **시즌 형식:** 각 시즌은 정해진 기간(예: _2–6주_; 관리자에 의해 설정됨) 동안 진행되며, 별도의 **정책 사전 설정**이 있습니다.
 - **정책 예시:** 세금, 조폐, 이자율, 상점 수수료, 임금, 사형, 드롭 규칙, 여행 비용 등.
 - **승자:** 시즌 종료 시점에 모드 화폐 **최종 잔액**이 가장 높은 플레이어가 **햄부기 기프트 카드**를 획득합니다.
 - **재설정:** 세계/경제는 시즌 간에 재설정될 수 있으며, 정책 노트와 결과는 보관됩니다.
