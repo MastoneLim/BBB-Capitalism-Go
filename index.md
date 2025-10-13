@@ -84,6 +84,8 @@ Welcome to a small world with **big economics**. This server experiments with re
 - 아래는 서버/클라이언트의 모든 모드 리스트 입니다. 클릭해 개별 페이지에서 상세 설명을 볼 수도 있고, 공식 모드 페이지를 통해 자세한 설명을 찾아볼 수도 있습니다.
 ---
 
+## Mods by Category
+
 ### Worldgen
 
 | Mod | Summary | Author | Link |
