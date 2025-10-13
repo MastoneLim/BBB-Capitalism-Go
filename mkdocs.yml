@@ -23,7 +23,6 @@ nav:
       - Create / Industry: categories/create-industry.md
       - Food / FD add-ons: categories/food-fd-add-ons.md
       - Villagers & Economy: categories/villagers-economy.md
-  - All Mods (A–Z): index.md
 markdown_extensions:
   - admonition
   - tables
