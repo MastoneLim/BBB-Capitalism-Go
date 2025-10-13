@@ -9,22 +9,22 @@ BBB Capitalism Go 서버의 모드와 주요 컨텐츠를 소개하는 위키입
 **서버 주소** : chanscom.ddns.net:14341
   
 **설치방법**
-1. Minecraft 홈페이지에서 Minecraft Java Launcher 설치
-2. OpenJDK17U-jdk_x64_windows_hotspot_17.0.16_8 설치
-3. forge-1.20.1-47.4.0-installer 설치 (Install Client 옵션)
-4. C:\Users\growl\AppData\Roaming\.minecraft (기본 경로)에 [minecraft.rar](https://naver.me/GFCVxow3) 내용물 압축 풀어서 복붙
-5. Minecraft Launcher 실행
-6. Minecraft: Java Edition 아래 설치 설정 탭으로 이동
-7. forge 클릭
-8. 아래 설정 더보기 클릭해서 펼치기
-9. JVM 인수 란에 -Xmx24G 입력 (최소 16기가, 권장 24기가)
-10. 런처에서 왼쪽 아래 탭 눌러서 최신릴리즈 -> forge 로 변경
-11. 실행 후 모드 로딩될때까지 기다리기 (모드 많아서 로딩 좀 걸림)
-12. 멀티플레이 선택
-13. 서버 추가
-14. 서버 주소 입력 후 추가
-15. 서버 선택 후 플레이
-17. NOW PLAY HARD
+1. Minecraft 홈페이지에서 Minecraft Java Launcher 설치  
+2. OpenJDK17U-jdk_x64_windows_hotspot_17.0.16_8 설치  
+3. forge-1.20.1-47.4.0-installer 설치 (Install Client 옵션)  
+4. C:\Users\growl\AppData\Roaming\.minecraft (기본 경로)에 [minecraft.rar](https://naver.me/GFCVxow3) 내용물 압축 풀어서 복붙  
+5. Minecraft Launcher 실행  
+6. Minecraft: Java Edition 아래 설치 설정 탭으로 이동  
+7. forge 클릭  
+8. 아래 설정 더보기 클릭해서 펼치기  
+9. JVM 인수 란에 -Xmx24G 입력 (최소 16기가, 권장 24기가)  
+10. 런처에서 왼쪽 아래 탭 눌러서 최신릴리즈 -> forge 로 변경  
+11. 실행 후 모드 로딩될때까지 기다리기 (모드 많아서 로딩 좀 걸림) 
+12. 멀티플레이 선택  
+13. 서버 추가  
+14. 서버 주소 입력 후 추가  
+15. 서버 선택 후 플레이  
+17. NOW PLAY HARD  
   
 ---  
 
