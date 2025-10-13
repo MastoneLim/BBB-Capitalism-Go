@@ -2,13 +2,86 @@
 
 BBB Capitalism Go 서버의 모드와 주요 컨텐츠를 소개하는 위키입니다.
 
-Welcome! This site lists every mod in the pack with one‑line summaries and room for notes.  
+Welcome to a small world with **big economics**. This server experiments with real-world ideas—**taxes, minting, wages, markets, inflation/deflation knobs**—all powered by [Lightman’s Currency](mods/lightman-s-currency.md). Each **season** we tweak the economic rules, then watch emergent chaos and clever strategies unfold.
 
-**Game:** Minecraft 1.20.1 (Forge)
+차가운 자본주의에 어서오세요...! 이 서버는 [Lightman’s Currency](mods/lightman-s-currency.md)에 의해 구동되는 가상 경제(**taxes, 발행, 임금, 시장, 인플레이션/deflation 노브**)를 실험합니다. **시즌**마다 경제 규칙을 조정한 후, 새로운 혼란과 영리한 전략이 펼쳐지는 것을 지켜봅니다.
+
+!!! tip "TL;DR"
+    **Make money, experiment, break the meta.** At the end of the season, the **richest player** (by Lightman’s Currency balance) gets a **hamburger gift card** 🥪🎁.
+
+!!! 3줄 요약
+    **최대한 많은 돈을 벌어라** 시즌 마지막, 가장 **부자인 플레이어** (Lightman’s Currency 모드 화폐 보유량)에게 **햄부기 기프트 카드가 주어집니다!** 🥪🎁.
+
+---
+
+## What is this server?
+## 이 서버 뭐에요?
+
+**Goal:** simulate and remix economics inside Minecraft using adjustable rules.  
+**How:** we use currency, banks, taxes, shops, and policy switches—then change them season-to-season to see how players adapt.
+
+**목표:** 마인크래프트 내부에서 조정 가능한 규칙을 사용하여 경제학을 시뮬레이션하고 리믹스합니다.
+**방법:** 우리는 통화, 은행, 세금, 상점, 정책 전환을 사용한 다음 시즌마다 변경하여 플레이어들이 어떻게 적응하는지 확인합니다.
+
+**Core pillars**
+- **Currency & Banking:** Wallets, accounts, transfers, shops, fees — via [Lightman’s Currency](mods/lightman-s-currency.md).
+- **Travel & Exploration:** A lots of special structures are added, and they have special, and strong treasures inside! So, go treasure hunt, and make profit!
+- **Production & Supply:** Farming, cooking, machinery/automation, and loot drive supply.
+- **Player-run Markets:** Buy/sell, arbitrage, contracts, and services (delivery, building, protection, logistics).
+
+**핵심**
+- **통화 및 뱅킹:** 지갑, 계좌, 이체, 상점, 수수료 - [Lightman’s Currency](mods/lightman-s-currency.md) 를 통해 확인할 수 있습니다.
+- **여행 및 탐험:** 수 많은 특별한 구조물이 월드에 생성되며, 내부에 특별하고 강력한 보물이 있습니다! 그러니 보물찾기에 나서 수익을 창출하세요!
+- **생산 및 공급:** 농업, 요리, 기계/자동화, 전리품 구동 공급.
+- **플레이어 운영 시장:** 매매, 차익 거래, 계약 및 서비스(배송, 건축, 보호, 물류).
+
+---
+
+## How seasons work
+
+- **Season format:** Each season runs for a fixed period (e.g., _2–6 weeks_; set by admin), with a distinct **policy preset**.  
+- **Policy knobs:** taxes, minting, interest rate, shop fees, wages, death penalties, drop rules, travel costs, etc.  
+- **Winner:** the player with the **highest final balance** in Lightman’s Currency at the snapshot time wins the **hamburger gift card**.  
+- **Resets:** world/economy may reset between seasons; policy notes and results are archived.
+
+- - **시즌 형식:** 각 시즌은 정해진 기간(예: _2–6주_; 관리자에 의해 설정됨) 동안 진행되며, 별도의 **정책 사전 설정**이 있습니다.
+- **정책 예시:** 세금, 조폐, 이자율, 상점 수수료, 임금, 사형, 드롭 규칙, 여행 비용 등.
+- **승자:** 시즌 종료 시점에 모드 화폐 **최종 잔액**이 가장 높은 플레이어가 **햄부기 기프트 카드**를 획득합니다.
+- **재설정:** 세계/경제는 시즌 간에 재설정될 수 있으며, 정책 노트와 결과는 보관됩니다.
+
+---
+
+## Economy rules
+## 경제 규칙
+
+- **Season 0 is anarchy!** All modes are on default setting, and it doesn't matter what method you use to collect money until the end of the season. Economic rules will be set afterwards based on statistics and data from this season.
+
+- **시즌 0는 무정부입니다!** 모든 모드가 기본 설정이며, 시즌이 종료 될 때까지 화폐를 모으기 위해 어떤 방법을 사용하든 상관 없습니다. 이 시즌의 통계와 데이터를 바탕으로 이후 경제 규칙이 설정될 예정입니다.
+
+---
+
+## Getting started (new players)
+## 시작하기 (새로운 플레이어)
+
+1. **Grab a wallet** and open your **bank account** (Lightman’s Currency UI).  
+2. **Earn your first money:** hunt mobs, find treasure and sell to the players, ... or mint it yourself! ideas are endless!
+3. **Open a shop** (or join one): specialize, set prices, and restock. (Lightman's Currency mode has a lot of special blocks (item shelves, vending machines,even slot machines...) and you can use them to create a store that works like a real thing.)
+4. **Scale up:** invest in automation/farms/logistics 
+5. **Mind the policies:** taxes/fees change per season—pivot fast!
+
+1. 지갑을 잡고 은행 계좌를 개설하세요** (Lightman’s Currency UI).
+2. **첫 번째 돈을 버세요:** 몹을 사냥하고, 보물을 찾아 플레이어에게 판매하며, ...혹은 직접 돈을 찍어내세요! 아이디어는 무궁무진합니다!
+3. **매장 오픈** (또는 매장에 가입): 전문화, 가격 설정, 재입고. (Lightman’s Currency 모드에는 많은 특별한 블록이 있으며(아이템 진열대, 자동 판매기, 슬롯머신...) 이를 활용해 실제와 같이 작동하는 상점을 만들 수 있습니다.)
+4. **규모 확장:** 자동화/농장/물류에 투자
+5. **정책에 유의하세요: 시즌당 세금/수수료 —빠르게 결정하세요!
+
+---
 
 ## Browse Mods
 - See the **Mods** section in the sidebar (auto-generated).
 - Or jump directly from the table below.
+
+- 아래는 서버/클라이언트의 모든 모드 리스트 입니다. 클릭해 개별 페이지에서 상세 설명을 볼 수도 있고, 공식 모드 페이지를 통해 자세한 설명을 찾아볼 수도 있습니다.
 
 | Mod | Summary | Author | Link |
 |---|---|---|---|
