@@ -8,7 +8,8 @@ BBB Capitalism Go 서버의 모드와 주요 컨텐츠를 소개하는 위키입
 
 **서버 주소** : chanscom.ddns.net:14341
   
-**설치방법**
+**설치방법**  
+
 1. Minecraft 홈페이지에서 Minecraft Java Launcher 설치  
 2. OpenJDK17U-jdk_x64_windows_hotspot_17.0.16_8 설치  
 3. forge-1.20.1-47.4.0-installer 설치 (Install Client 옵션)  
