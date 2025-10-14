@@ -8,6 +8,10 @@
 - **한국어 채팅 개선**: IME 입력 문제를 개선해 한글 채팅이 더욱 쾌적합니다.  
 
 ## 1) 레시피/정보 — JEI, EMI  
+<div style="display:flex; gap:12px; flex-wrap:wrap;">
+  <img src="../assets/Simple%EMI%2001.png" alt="EMI 01.png" style="width:49%;">
+  <img src="../assets/Simple%EMI%2002.png" alt="EMI 02.png" style="width:49%;">
+</div>
 ![EMI](../Assets/EMI 01.png){ width="360" }
 ![EMI](../Assets/EMI 02.png){ width="360" }
 - 조합법/몹 드랍/주민 교환 등 **아이템 획득 경로**를 한눈에 보여줍니다.  
