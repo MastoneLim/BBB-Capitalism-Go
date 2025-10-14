@@ -1,5 +1,5 @@
-site_name: Modpack Wiki
-site_description: Guides and one-line summaries for a 1.20.1 Forge modpack
+site_name: BBB Capitalism Go Wiki
+site_description: Guides and Introductions about BBB Capitalism Go Server contents and mods
 site_url: https://example.com
 use_directory_urls: true
 theme:
