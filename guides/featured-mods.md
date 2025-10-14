@@ -3,7 +3,7 @@
 > 이 페이지는 서버에서 **알아두면 플레이가 편해지는 핵심 모드들**을 간단히 설명합니다. 자세한 모드 목록은 홈의 **Mod list — one-liners**를 참고하세요.
 
 ## 0) 음성 채팅 & 한국어 채팅  
-![Simple Voice Chat](../Assets/Simple_Voice_Chat_01.png)  
+![Simple Voice Chat](../Assets/Simple Voice Chat 01.png)  
 - **인게임 음성 채팅**: 거리감이 적용되는 proximity 보이스. `V`키 또는 초기 설정 창에서 세부 설정 가능.
 - **한국어 채팅 개선**: IME 입력 문제를 개선해 한글 채팅이 더욱 쾌적합니다.
 
