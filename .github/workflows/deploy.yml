@@ -23,6 +23,7 @@ jobs:
           cp -r index.md mods docs/
           [ -d categories ] && cp -r categories docs/
           [ -d guides ] && cp -r guides docs/
+          [ -d Assets ] && cp -r Assets docs/
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           mkdocs gh-deploy --force
